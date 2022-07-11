@@ -92,4 +92,4 @@ plt.xlabel('Year')
 plt.ylabel('Unit Price ($psf)')
 plt.show()
 ```
-![image](https://user-images.githubusercontent.com/96287600/178277144-d3d1bdb3-5da1-4bce-8513-773759ddb5c1.png)
+![image](https://user-images.githubusercontent.com/96287600/178277516-7a9bc037-f16b-40de-b8a3-c945fd9c8966.png)
