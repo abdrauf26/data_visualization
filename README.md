@@ -9,7 +9,6 @@ import seaborn as sns
 sns.set()
 ```
 ```
-# Create the correlation matrix using seaborn
 sns.heatmap(df_singapore_condo_apt_data.corr(),cmap='YlGn',annot=True)
 
 plt.title('Singapore Condominiums and Apartments correlation matrix')
