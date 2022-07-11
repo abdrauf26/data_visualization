@@ -109,7 +109,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/96287600/178277516-7a9bc037-f16b-40de-b8a3-c945fd9c8966.png)
 
 ## [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-- [Jupyter Notebook Document](https://nbviewer.org/github/abdrauf26/data_visualization/blob/main/Data%20Visualization%20Using%20Python.ipynb)
+- [Jupyter Notebook Document - Data Visualization Using Python](https://nbviewer.org/github/abdrauf26/data_visualization/blob/main/Data%20Visualization%20Using%20Python.ipynb)
 
 ## Social 📧 
 
