@@ -1,11 +1,11 @@
 # Data Visualization Using Python
 
-## 1. Correlation Matrix
+## 1. Correlation Matrix 
 ```
 import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter, FormatStrFormatter
 
-<font color="red">import seaborn as sns</font>
+import seaborn as sns
 sns.set()
 ```
 ```
