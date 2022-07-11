@@ -1,7 +1,7 @@
 # Data Visualization Using Python
 
 ## 1. Correlation Matrix
-
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
 ```
 import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter, FormatStrFormatter
