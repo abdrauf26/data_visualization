@@ -15,4 +15,8 @@ sns.heatmap(df_singapore_condo_apt_data.corr(),cmap='YlGn',annot=True)
 
 plt.title('Singapore Condominiums and Apartments correlation matrix')
 ```
+
+
+<p align="center">
 ![image](https://user-images.githubusercontent.com/96287600/178270529-76b4da58-5d6e-4b86-9a28-f90303eb4247.png)
+</p>
