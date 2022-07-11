@@ -1,5 +1,8 @@
 # Data Visualization Using Python
 
+![image](https://user-images.githubusercontent.com/96287600/178280201-c66eaf20-b2dc-4088-a59a-8e7958f197c6.png)
+
+
 ## Built With 💻
 
 - [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)](https://jupyter.org/try)
