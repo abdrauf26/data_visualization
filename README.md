@@ -1,6 +1,6 @@
 # Data Visualization Using Python
 
-## # 1. Correlation Matrix
+## 1. Correlation Matrix
 
 ```
 import matplotlib.pyplot as plt
