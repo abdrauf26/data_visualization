@@ -1,11 +1,18 @@
 # Data Visualization Using Python
 
+## # 1. Correlation Matrix
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+import matplotlib.pyplot as plt
+from matplotlib.ticker import ScalarFormatter, FormatStrFormatter
+
+import seaborn as sns
+sns.set()
 ```
+...
+# Create the correlation matrix using seaborn
+sns.heatmap(df_singapore_condo_apt_data.corr(),cmap='YlGn',annot=True)
 
-![image](https://user-images.githubusercontent.com/96287600/178270090-e8332900-56b7-4502-9f14-1f3c2dcd597f.png)
-
+plt.title('Singapore Condominiums and Apartments correlation matrix')
+...
+![image](https://user-images.githubusercontent.com/96287600/178270529-76b4da58-5d6e-4b86-9a28-f90303eb4247.png)
