@@ -7,10 +7,8 @@ from matplotlib.ticker import ScalarFormatter, FormatStrFormatter
 
 import seaborn as sns
 sns.set()
-```
-```
-sns.heatmap(df_singapore_condo_apt_data.corr(),cmap='YlGn',annot=True)
 
+sns.heatmap(df_singapore_condo_apt_data.corr(),cmap='YlGn',annot=True)
 plt.title('Singapore Condominiums and Apartments correlation matrix')
 ```
 
