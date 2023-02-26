@@ -47,6 +47,7 @@ fig.show()
 
 ## 3. Histogram
 ```
+import seaborn as sns
 sns.histplot(df_singapore_condo_apt_data['Unit Price ($psf)'],kde=False, bins=30)
 
 ```
@@ -54,6 +55,7 @@ sns.histplot(df_singapore_condo_apt_data['Unit Price ($psf)'],kde=False, bins=30
 
 ## 4. Boxplot
 ```
+import seaborn as sns
 sns.boxplot(x="Year", y="Unit Price ($psf)", data=df_singapore_condo_apt_data, palette="coolwarm")
 ```
 ![image](https://user-images.githubusercontent.com/96287600/178274672-96bd7bab-2b10-4e77-9d5e-0cb6705a3ef3.png)
